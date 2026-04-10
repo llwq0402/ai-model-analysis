@@ -123,4 +123,4 @@
 
 ```bash
 jupyter notebook
-运行 analysis.ipynb
+3. 运行 analysis.ipynb
